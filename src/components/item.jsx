@@ -1,5 +1,5 @@
 import React from 'react'
-import { FaCheck } from "react-icons/fa6";
+import { FaCheck } from "react-icons/fa";
 const Item = ({ id,description,selected, onTaggleItem,HandleDeletItem}) => {
   return (
     <li>

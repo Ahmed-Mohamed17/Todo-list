@@ -4,7 +4,7 @@ const Title = () => {
   return (
     <div>
       <h1>Todo List</h1>
-      <img src={img} alt='photo' />
+      <img src={img} alt='logo' />
     </div>
   )
 }
